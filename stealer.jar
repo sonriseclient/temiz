@@ -1,1 +1,13 @@
-1
+public class MyClass {
+
+    public MyClass() {
+    }
+
+    public void myMethod() {
+    }
+
+    public static void main(String[] args) {
+        MyClass obj = new MyClass();
+        obj.myMethod();
+    }
+}
